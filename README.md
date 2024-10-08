@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AmanShukla-creator
+- 👋 Hi, I’m @AmanShukla
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on public projects
 - 📫 How to reach me can conatact or message on my Github profile
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a coding enthusiast.Not only java i also to program in other natural language
 
 <!---
 AmanShukla-creator/AmanShukla-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
